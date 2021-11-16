@@ -1,0 +1,23 @@
+{
+  "name": "base10-36luhnalgorithm",
+  "version": "1.0.0",
+  "description": "Check if digits is a valid base10(or 36) luhn algorithm numbers/chars ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaorsouza/Base10-36LuhnAlgorithm.git"
+  },
+  "keywords": [
+    "luhn",
+    "algorithm"
+  ],
+  "author": "João Rafael de Souza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joaorsouza/Base10-36LuhnAlgorithm/issues"
+  },
+  "homepage": "https://github.com/joaorsouza/Base10-36LuhnAlgorithm#readme"
+}
