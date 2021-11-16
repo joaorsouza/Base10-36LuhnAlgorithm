@@ -1,6 +1,6 @@
 # What is this
 
-Check if your alphanumeric digits is valid using the Luhn Algorithm
+Check if your alphanumeric digits is valid using the Luhn Algorithm [See at Wikipedia](https://en.wikipedia.org/wiki/Luhn_mod_N_algorithm)
 
 # Installation and usage
 
